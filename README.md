@@ -30,10 +30,17 @@ Simple plot depicting the number of requests made in a day for every day in the 
 Error Codes Used (MapReduce):
 
 200 9301563
+
 302 219210
+
 304 800316
+
 400 45
+
 403 675
+
 404 62700
+
 500 195
+
 501 123
