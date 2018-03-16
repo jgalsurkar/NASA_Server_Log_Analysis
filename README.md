@@ -27,7 +27,7 @@ Simple plot depicting the number of requests made in a day for every day in the 
 
 ![](./october.png)
 
-Error Codes Used:
+Error Codes Used (MapReduce):
 
 200 9301563
 302 219210
