@@ -27,20 +27,20 @@ Simple plot depicting the number of requests made in a day for every day in the 
 
 ![](./october.png)
 
-Error Codes Used (MapReduce):
+Number of times each protocol code was used (MapReduce):
 
-200 9301563
+200: 9301563
 
-302 219210
+302: 219210
 
-304 800316
+304: 800316
 
-400 45
+400: 45
 
-403 675
+403: 675
 
-404 62700
+404: 62700
 
-500 195
+500: 195
 
-501 123
+501: 123
